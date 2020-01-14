@@ -1,0 +1,4 @@
+- ps : affiche les commandes qui son actuellement utilisé dans cette invité de commande.
+- grep :
+- echo : affiche un message
+- date : affiche la date, il existe plusieurs format

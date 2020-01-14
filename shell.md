@@ -12,3 +12,6 @@ pour lancer un shell , [. watch] [sh/watch] ou bien au début du fichier #!/bin/
 
 les entrer sorties des resultat, peuvent etre dans un fichier : **commande >> fichier.txt**
 
+le nombre de parametre : $#
+
+
